@@ -51,6 +51,6 @@ The platform is divided into features for league members and powerful tools for 
 
 ---
 
-Click the image below to visit the site.
+### Click the image below to visit the site.
 
 [![Welland Pool League Preview](Images/WPLPreview.png)](https://wpl.codersden.com)
