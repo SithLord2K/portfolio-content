@@ -1,4 +1,4 @@
-#### MetaCTF Flash CTFs
+### MetaCTF Flash CTFs
 
 These are some of the CTFs I have completed on MetaCTF. These are short Capture the Flag challenges that are designed to be completed in a short amount of time, typically two hours. They cover a variety of topics and are a great way to practice your skills.
 
