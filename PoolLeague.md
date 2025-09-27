@@ -49,7 +49,7 @@ The platform is divided into features for league members and powerful tools for 
     * **Player Game Reporting:** Admins can enter weekly wins and losses for each player in the league.
     * **Content Management:** Full control over league data including Teams, Players, and Bars.
 
-
+---
 
 Click the image below to visit the site.
 
