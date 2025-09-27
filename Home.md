@@ -6,14 +6,14 @@ My expertise comes from both my extensive professional background and a continuo
 
 ---
 
-## Let's Connect
+#### Let's Connect
 
 I'm actively seeking a role where I can apply my passion and expertise to a dynamic team. Please take a look at my featured projects, view my full resume, or feel free to contact me directly.
 
 ---
 
-## TryHackMe Profile
+#### TryHackMe Profile
 [View my TryHackMe Profile](https://tryhackme.com/p/SithLord2K)
 
-## Download Full Resume
+#### Download Full Resume
 [Download Resume](/Resume/Chris_Wiley_Resume_2025.pdf)
