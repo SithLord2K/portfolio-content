@@ -1,4 +1,4 @@
-#### Autorecon Install Script
+### Autorecon Install Script
 
 This is a script I created to automate the installation of Autorecon, a tool used for automated reconnaissance in penetration testing. It simplifies the setup process by handling dependencies and configurations.
 
