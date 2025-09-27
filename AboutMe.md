@@ -1,4 +1,4 @@
-###### About Me
+# About Me
 
 My journey with technology started early, sparking a lifelong passion that has taken me from computer repair to deep-dive programming. For the past seven years, I’ve honed my analytical skills as a Junior QA Analyst, where my primary role was to identify weaknesses and vulnerabilities in software to ensure its quality and security.
 
