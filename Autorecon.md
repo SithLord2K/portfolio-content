@@ -63,3 +63,28 @@ def main():
 if __name__ == '__main__':
     main()
     print(f"[*] Requirements for AutoRecon are met.")
+```
+---
+***Required Packages text file***
+```code
+curl
+dnsrecon
+enum4linux
+feroxbuster
+gobuster
+impacket-scripts
+nbtscan
+nikto
+nmap
+onesixtyone
+oscanner
+redis-tools
+smbclient
+smbmap
+snmpwalk
+sslscan
+svwar
+tnscmd10g
+whatweb
+autorecon
+```
