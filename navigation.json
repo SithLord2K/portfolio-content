@@ -1,0 +1,93 @@
+[
+  {
+    "Title": "Cybersecurity Certificates",
+    "IsGroup": true,
+    "Icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z\"/></svg>",
+    "Items": [
+      {
+        "Title": "TCM Security Courses",
+        "IsGroup": true,
+        "Icon": "<image width='32' height='32' xlink:href='icons/TCM-sec.png' />",
+        "Items": [
+          {
+            "Title": "PNPT Course Completion",
+            "IsGroup": true,
+            "Icon": "<image width='32' height='32' xlink:href='icons/pnpt-new2.png' />",
+            "Items": [
+              {
+                "Title": "Practical Ethical Hacking",
+                "Route": "peh",
+                "MarkdownFile": "PEH.md",
+                "IsGroup": false,
+                "Icon": "<image width='32' height='32' xlink:href='icons/peh.png' />"
+              },
+              {
+                "Title": "OSINT",
+                "Route": "osint",
+                "MarkdownFile": "OSINT.md",
+                "IsGroup": false,
+                "Icon": "<image width='32' height='32' xlink:href='icons/OSINT.png' />"
+              },
+              {
+                "Title": "Linux Privilege Escalation",
+                "Route": "linux-privesc",
+                "MarkdownFile": "LinuxPrivEsc.md",
+                "IsGroup": false,
+                "Icon": "<image width='32' height='32' xlink:href='icons/LPE.png' />"
+              },
+              {
+                "Title": "Windows Privilege Escalation",
+                "Route": "windows-privesc",
+                "MarkdownFile": "WindowsPrivEsc.md",
+                "IsGroup": false,
+                "Icon": "<image width='32' height='32' xlink:href='icons/WPE.png' />"
+              },
+              {
+                "Title": "C# 101 for Hackers",
+                "Route": "csharp-101",
+                "MarkdownFile": "CSharp101.md",
+                "IsGroup": false,
+                "Icon": "<image width='32' height='32' xlink:href='icons/C-Sharp101.png' />"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Title": "Capture the Flag",
+        "IsGroup": true,
+        "Icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6z\"/></svg>",
+        "Items": [
+          {
+            "Title": "MetaCTF",
+            "Route": "metactf",
+            "MarkdownFile": "CTFs.md",
+            "IsGroup": false,
+            "Icon": "<image width='32' height='32' xlink:href='icons/MetaCTF_New.png' />"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Title": "Personal Projects",
+    "IsGroup": true,
+    "Icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z\"/></svg>",
+    "Items": [
+      {
+        "Title": "Welland Pool League",
+        "Route": "poolleague",
+        "MarkdownFile": "PoolLeague.md",
+        "IsGroup": false,
+        "Icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM4 9h10.5v3.5H4V9zm0 5.5h10.5V18H4v-3.5zM20 18h-4V9h4v9z\"/></svg>"
+      },
+      {
+        "Title": "Autorecon Install Script",
+        "Route": "autorecon",
+        "MarkdownFile": "Autorecon.md",
+        "IsGroup": false,
+        "Icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 4H4c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-8 14H6v-2h6v2zm-2.06-4.56l-4.24-4.24.71-.71 3.54 3.54 3.54-3.54.71.71-4.26 4.24z\"/></svg>"
+      }
+    ]
+  }
+]
