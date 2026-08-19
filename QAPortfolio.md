@@ -1,10 +1,8 @@
 # Chris Wiley — QA Automation & Software Testing Portfolio
 
-**Location:** Welland / Pelham, ON, Canada  
+**Location:** Welland, ON, Canada  
 **Email:** wileysoftware@gmail.com | sithlord2k@gmail.com  
-**Phone:** +1 (289) 241-8953  
 **GitHub:** [github.com/SithLord2K](https://github.com/SithLord2K)  
-**Portfolio:** [chriswiley.codersden.com](https://chriswiley.codersden.com)  
 **LinkedIn:** [linkedin.com/in/cw-hacks](https://www.linkedin.com/in/cw-hacks)  
 
 ---
